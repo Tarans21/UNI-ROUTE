@@ -110,30 +110,55 @@ Pickle (.pkl graph)
 Numpy (.npy distance matrix)
 
 🗂️ Project Structure
+
 UniRoute/
+
 │── backend/
+
 │   ├── app.py
+
 │   ├── models/
+
 │   │   ├── lstm_nextstep.h5
+
 │   │   ├── name2id.json
+
 │   │   └── dijkstra_distance_matrix.npy
+
 │   ├── graph/
+
 │   │   ├── uniroute_graph.pkl
+
 │   │   ├── graph_cache.json
+
 │   │   └── floor_csvs/
+
 │   │       ├── groundfloor.csv
+
 │   │       ├── Floor1.csv
+
 │   │       ├── Floor2.csv
+
 │   │       ├── Floor3.csv
+
 │   │       └── Floor4.csv
+
 │
+
 │── frontend/
+
 │   ├── pages/
+
 │   ├── components/
+
 │   ├── styles/
+
 │   └── next.config.js
+
 │
+
 │── README.md
+
 └── requirements.txt
 
 🧪 Features in Development
