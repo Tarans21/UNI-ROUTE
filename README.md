@@ -119,29 +119,29 @@ UniRoute/
 
 │   ├── models/
 
-│   │   ├── lstm_nextstep.h5
+│   │     ├── lstm_nextstep.h5
 
-│   │   ├── name2id.json
+│   │     ├── name2id.json
 
-│   │   └── dijkstra_distance_matrix.npy
+│   │     └── dijkstra_distance_matrix.npy
 
 │   ├── graph/
 
-│   │   ├── uniroute_graph.pkl
+│   │     ├── uniroute_graph.pkl
 
-│   │   ├── graph_cache.json
+│   │     ├── graph_cache.json
 
-│   │   └── floor_csvs/
+│   │     └── floor_csvs/
 
-│   │       ├── groundfloor.csv
+│   │         ├── groundfloor.csv
 
-│   │       ├── Floor1.csv
+│   │         ├── Floor1.csv
 
-│   │       ├── Floor2.csv
+│   │         ├── Floor2.csv
 
-│   │       ├── Floor3.csv
+│   │         ├── Floor3.csv
 
-│   │       └── Floor4.csv
+│   │         └── Floor4.csv
 
 │
 
